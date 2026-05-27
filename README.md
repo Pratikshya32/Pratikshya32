@@ -13,7 +13,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratikshya32&label=Profile%20views&color=e94d5f&style=flat" />
+  <img src="https://img.shields.io/badge/Profile%20Views-3012-e94d5f?style=flat&logo=eye&logoColor=white" />
 </p>
 
 ---
