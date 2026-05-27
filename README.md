@@ -78,13 +78,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSSoC%202026-Contributor-orange?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/main/gssoc-badge-gssoc_champion%20(1).png" width="120px" alt="GSSoC Champion" />
+  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/main/gssoc-badge-legend.png" width="120px" alt="GSSoC Legend" />
+  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/main/gssoc-badge-top_10.png" width="120px" alt="GSSoC Top 10" />
 </p>
 
 - 🚀 **Participant / Contributor** in GirlScript Summer of Code
 - 💻 **Active Contributions**: Making impact on various open-source web applications, fixing critical bugs, and raising pull requests.
 - 🎯 **Achievements**:
+  - Earned the **GSSoC Champion** & **GSSoC Legend** milestone badges.
+  - Ranked in the **Top 10** contributors on the official leaderboard.
   - Contributing to various codebases, fixing layouts, calendar features, and themes.
   - Actively collaborating with project maintainers and developers to merge quality commits.
 
