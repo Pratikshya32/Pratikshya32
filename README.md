@@ -71,16 +71,17 @@
 ---
 
 ### 🏅 GirlScript Summer of Code (GSSoC)
-<p align="center">
+<!-- <p align="center">
   <a href="https://gssoc.girlscript.tech/" target="_blank">
     <img src="https://raw.githubusercontent.com/GirlScript/gssoc-assets/main/Logos/gssoc.svg" width="120px" alt="GSSoC Logo" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/main/gssoc-badge-gssoc_champion%20(1).png" width="120px" alt="GSSoC Champion" />
-  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/main/gssoc-badge-legend.png" width="120px" alt="GSSoC Legend" />
-  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/main/gssoc-badge-top_10.png" width="120px" alt="GSSoC Top 10" />
+   <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/main/gssoc-badge-top_10.png" width="140px" alt="GSSoC Top 10" />
+  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/main/gssoc-badge-gssoc_champion%20(1).png" width="140px" alt="GSSoC Champion" />
+  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/main/gssoc-badge-legend.png" width="140px" alt="GSSoC Legend" />
+ 
 </p>
 
 - 🚀 **Participant / Contributor** in GirlScript Summer of Code
