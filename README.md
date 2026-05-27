@@ -73,7 +73,7 @@
 ### 🐍 Contribution Snake
 <div align="center">
 
-![snake gif](https://github.com/Pratikshya32/Pratikshya32/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/anshika1179/anshika1179/blob/output/github-snake-dark.svg)
 
 </div>
 
