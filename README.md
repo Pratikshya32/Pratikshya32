@@ -50,7 +50,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Pratikshya32&show_icons=true&theme=radical" height="160"/> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pratikshya32&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratikshya32&theme=radical" height="160"/>
 </p>
 
@@ -58,23 +58,41 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratikshya32&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Pratikshya32&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshya32&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pratikshya32&layout=compact&theme=radical" />
 </p>
+
+---
+
+### 🏅 GirlScript Summer of Code (GSSoC)
+<p align="center">
+  <a href="https://gssoc.girlscript.tech/" target="_blank">
+    <img src="https://raw.githubusercontent.com/GirlScript/gssoc-assets/main/Logos/gssoc.svg" width="120px" alt="GSSoC Logo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSoC%202026-Contributor-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+- 🚀 **Participant / Contributor** in GirlScript Summer of Code
+- 💻 **Active Contributions**: Making impact on various open-source web applications, fixing critical bugs, and raising pull requests.
+- 🎯 **Achievements**:
+  - Contributing to various codebases, fixing layouts, calendar features, and themes.
+  - Actively collaborating with project maintainers and developers to merge quality commits.
 
 ---
 
 ### 🐍 Contribution Snake
 <div align="center">
-
-![snake gif](https://github.com/anshika1179/anshika1179/blob/output/github-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/output/github-snake-dark.svg" alt="contribution snake" />
 </div>
 
 ---
