@@ -12,10 +12,10 @@
 </p>
 
 <!-- Profile Views -->
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-3012-e94d5f?style=flat&logo=eye&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Pratikshya32&color=e94d5f&style=flat&label=Profile+Views" />
 </p>
-
 ---
 
 ### 👩‍💻 About Me
