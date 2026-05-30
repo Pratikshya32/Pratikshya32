@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pratikshya Sahoo</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from India</h3>
+<h3 align="center">🚀 Open Source Contributor | Frontend Developer | GSSoC Top 3 Contributor</h3>
 
 <!-- Typing Animation -->
 <p align="center">
