@@ -85,7 +85,7 @@
 </p>
 
 - 🚀 **Participant / Contributor** in GirlScript Summer of Code
-- 💻 **Active Contributions**: Contributing to high-impact open-source projects including **[shouri123/Late-Meet](https://github.com/shouri123/Late-Meet)**, fixing critical bugs, and raising pull requests.
+- 💻 **Active Contributions**: Contributing to high-impact open-source projects including **[shouri123/Late-Meet](https://github.com/shouri123/Late-Meet)** and **[UTKARSHH20/fullstack-chat-app](https://github.com/UTKARSHH20/fullstack-chat-app)** (as Frontend Developer), fixing critical bugs, and raising pull requests.
 - 🎯 **Achievements**:
   - Earned the **GSSoC Champion** & **GSSoC Legend** milestone badges.
   - Ranked in the **Top 10** contributors on the official leaderboard.
